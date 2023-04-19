@@ -1,0 +1,39 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "description" : "simple API ",
+    "version" : "1.0",
+    "title" : "logMessage"
+  },
+  "host" : "SAG-DDBWVL3:15006",
+  "basePath" : "/gateway/logMessage/1.0",
+  "schemes" : [ "http" ],
+  "paths" : {
+    "/logMessage" : {
+      "get" : {
+        "consumes" : [ ],
+        "parameters" : [ ]
+      },
+      "head" : {
+        "consumes" : [ ],
+        "parameters" : [ ]
+      },
+      "post" : {
+        "consumes" : [ ],
+        "parameters" : [ ]
+      },
+      "put" : {
+        "consumes" : [ ],
+        "parameters" : [ ]
+      },
+      "delete" : {
+        "consumes" : [ ],
+        "parameters" : [ ]
+      },
+      "patch" : {
+        "consumes" : [ ],
+        "parameters" : [ ]
+      }
+    }
+  }
+}
